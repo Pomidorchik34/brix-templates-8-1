@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* dm-sans-regular - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/dm-sans-v15-latin_latin-ext-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* dm-sans-600 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./fonts/dm-sans-v15-latin_latin-ext-600.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* dm-sans-800 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 800;
+  src: url("./fonts/dm-sans-v15-latin_latin-ext-800.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/dm-sans-v15-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+::-webkit-scrollbar {
+  display: none;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg-def-blue {
+  background-color: #4a3aff;
+}
+.btn-def {
+  display: flex;
+  align-items: center;
+  height: 61px;
+  text-wrap: nowrap;
+  padding: 20px 40px 21px 40px;
+  border-radius: 56px;
+  color: white;
+  font-size: 18px;
+  font-family: "DM Sans";
+  font-weight: 700;
+}
+
+.btn-def-outline {
+  display: flex;
+  align-items: center;
+  height: 61px;
+  text-wrap: nowrap;
+  padding: 20px 40px 21px 40px;
+  border-radius: 56px;
+  color: #4a3aff;
+  font-size: 18px;
+  border: 1px solid #4a3aff;
+  font-family: "DM Sans";
+  font-weight: 700;
+}
+.nav-btn {
+  padding: 12px 24px;
+  color: #4a3aff;
+  border: 1.6px solid #4a3aff;
+  border-radius: 50px;
+  transition: 0.3s;
+  &:hover {
+    background-color: #4a3aff;
+    color: white;
+  }
+}
+html {
+  transition: 0.3s;
+}
+body div {
+  transition: 0.3s;
+}
+select {
+  color: #4a3aff;
+}

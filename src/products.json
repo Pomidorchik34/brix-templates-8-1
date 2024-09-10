@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "Ofice Chair",
+      "RU": "Офисный стул",
+      "UZ": "Ofis kafedrasi"
+    },
+    "price": "$49.99",
+    "img": "https://m.media-amazon.com/images/I/81suviU3vtL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "name": { "EN": "Bed", "RU": "Кровать", "UZ": "To'shak" },
+    "price": "$179.99",
+    "img": "https://www.premierinnbed.co.uk/media/catalog/product/cache/215e62282d4b4b68400b8137e0654108/p/r/premierinn_mattress2.0_lilith_charcoal_gbtb_lifestyle_-_demand_gen_square.jpg"
+  },
+  {
+    "id": 3,
+    "name": { "EN": "Carpet", "RU": "Ковер", "UZ": "Gilam" },
+    "price": "$149.99",
+    "img": "https://ii1.pepperfry.com/media/catalog/product/s/y/1100x1210/synthetic-microfiber-108-x-72-inch-machine-made-carpet-by-saral-home-synthetic-microfiber-108-x-72-i-tfpqgt.jpg"
+  },
+  {
+    "id": 4,
+    "name": { "EN": "Home Cupboard", "RU": "Домашний шкаф", "UZ": "Uy shkafi" },
+    "price": "$199.99",
+    "img": "https://pm.ru/global_images/goods/274/a5e/c4c/dfd/1393085_original.jpg"
+  },
+  {
+    "id": 5,
+    "name": {
+      "EN": "Table and chairs",
+      "RU": "Стол и стулья",
+      "UZ": "Stol va stullar"
+    },
+    "price": "$299.99",
+    "img": "https://kedem.ru/photo/articles/2011/11/20111115-serving_8.jpg"
+  },
+  {
+    "id": 6,
+    "name": { "EN": "Ofice Table", "RU": "Офисный стол", "UZ": "Ofis stoli" },
+    "price": "$149.99",
+    "img": "https://www.bossescabin.com/wp-content/uploads/magictoolbox_cache/6e197da80b81afdb5261e6a5c3debab9/2/7/2720/original/490877698/2-EF-87-Upscaled-Sharp-copy.jpg"
+  },
+  {
+    "id": 7,
+    "name": {
+      "EN": "Modern Table",
+      "RU": "Современный стол",
+      "UZ": "Zamonaviy stol"
+    },
+    "price": "$149.99",
+    "img": "https://img5.su-cdn.com/cdn-cgi/image/width=1000,height=1000/mall/file/2021/12/30/d0ae5aad871f4d6abd952057771b9a33.jpg"
+  },
+  {
+    "id": 8,
+    "name": {
+      "EN": "Bed for kids",
+      "RU": "Кровать для детей",
+      "UZ": "Bolalar uchun yotoq"
+    },
+    "price": "$99.99",
+    "img": "https://gvawood.com/cdn/shop/products/O1CN01NnoJqx1xQebwrYFHN__2209017246438.jpg?v=1681105194&width=781"
+  },
+  {
+    "id": 9,
+    "name": {
+      "EN": "Trundle bed for kids",
+      "RU": "Раскладная кровать для детей",
+      "UZ": "Bolalar uchun to'shak"
+    },
+    "price": "$49.99",
+    "img": "https://assets.pkimgs.com/pkimgs/ab/images/dp/ecm/202041/2557/027/229.jpg"
+  }
+]

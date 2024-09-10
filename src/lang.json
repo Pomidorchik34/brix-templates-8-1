@@ -1,0 +1,38 @@
+[
+  {
+    "navbar": ["Home", "Products", "Cart", "Dark mode"],
+    "home": [
+      "— Webflow Design Agency",
+      "A top-notch Webflow Design Agency",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor posuere vel venenatis eu sit massa volutpat massa rhoncus odio feugiat tellus, elit massa sed.",
+      "Get Started",
+      "Learn more"
+    ],
+    "products": ["Products", "Buy Now"],
+    "cart": ["Cart", "Remove"]
+  },
+  {
+    "navbar": ["Главная", "Товары", "Корзина", "Тёмный режим"],
+    "home": [
+      "— Агентство дизайна Webflow",
+      "Первоклассное агентство дизайна Webflow",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor posuere vel venenatis eu sit Massa volutpat Massa Rhoncus Odio Feugiat Tellus, Elit Massa Sed.",
+      "Начни",
+      "Узнать больше"
+    ],
+    "products": ["Продукты", "Купить сейчас"],
+    "cart": ["Корзина", "Удалить"]
+  },
+  {
+    "navbar": ["Uy", "Mahsulotlar", "Savat", "Qorong'i rejim"],
+    "home": [
+      "— Webflow dizayn agentligi",
+      "Eng yuqori darajadagi Webflow dizayn agentligi",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor posuere vel venenatis eu sit massa volutpat massa rhoncus odio feugiat tellus, elit massa sed.",
+      "Boshlash",
+      "Batafsil ma'lumot"
+    ],
+    "products": ["Mahsulotlar", "Hozir sotib ol"],
+    "cart": ["Savat", "O'chirish"]
+  }
+]
